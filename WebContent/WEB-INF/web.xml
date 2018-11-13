@@ -15,7 +15,7 @@
   </context-param>
   <context-param>
     <param-name>dbURL</param-name>
-    <param-value>jdbc:mysql://13.126.184.89:3306/UserDB</param-value>
+    <param-value>jdbc:mysql://52.66.202.243:3306/UserDB</param-value>
   </context-param>
   <context-param>
     <param-name>log4j-config</param-name>
